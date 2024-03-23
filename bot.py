@@ -10,6 +10,8 @@ import os
 
 intents = discord.Intents.all()
 
+TOKEN = ''
+
 def check_inventory_file():
     try:
         with open("obsdata.json", "r") as file:
@@ -1562,4 +1564,4 @@ def cycle(number, minim, maxim):
     elif number < minim: return maxim
     else: return number
 # Запустить бота с вашим токеном
-bot.run('MTE3NDA0MzQ5MjA3MTI1MjEyOA.GznUtF.ZnCxX92slRqAVpECuB7cg9AD75o0QO9c1y3ZG4')
+bot.run(TOKEN)
