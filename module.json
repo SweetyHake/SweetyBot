@@ -1,0 +1,13 @@
+{
+  "name": "sweetytech",
+  "title": "SweetyTech",
+  "description": "Secret Tech.",
+  "version": "1.0.0",
+  "author": "SweetyHake",
+  "esmodules": ["scripts/damage-highlight.js"],
+  "compatibleCoreVersion": "12",
+  "system": ["dnd35"],
+  "dependencies": [],
+  "manifest": "https://yourdomain.com/modules/my-damage-highlight/module.json",
+  "download": "https://yourdomain.com/modules/my-damage-highlight/my-damage-highlight.zip"
+}
