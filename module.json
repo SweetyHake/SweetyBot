@@ -8,6 +8,6 @@
   "compatibleCoreVersion": "12",
   "system": ["dnd35"],
   "dependencies": [],
-  "manifest": "https://yourdomain.com/modules/my-damage-highlight/module.json",
-  "download": "https://yourdomain.com/modules/my-damage-highlight/my-damage-highlight.zip"
+  "manifest": "https://github.com/SweetyHake/SweetyBot/blob/510c1efce3012a9880702d536b7afb31431d5773/module.json",
+  "download": "https://github.com/SweetyHake/SweetyBot/blob/510c1efce3012a9880702d536b7afb31431d5773/sweetyvtt.zip"
 }
